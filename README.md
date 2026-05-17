@@ -8,7 +8,7 @@ Currently learning **Rust** and **Gleam**.
 
 ### 🚧 Now / Currently building
 
-- 🌀 **[Werkflow](https://github.com/themaverik/werkflow)** — open-source enterprise workflow automation built on **Flowable BPM + Spring Boot + Next.js**. Integrating an AI Gateway (pgvector, Spring AI, NL-to-BPMN) and a Governed Case Management pattern as a pragmatic alternative to CMMN.
+- 🌀 **[Werkflow](https://github.com/themaverik/werkflow)** — open-source enterprise workflow automation built on **Flowable BPM + Spring Boot + Next.js**.
 - 🧪 **[claude-code-project-workflow](https://github.com/themaverik/claude-code-project-workflow)** — an opinionated Claude Code workflow: layered CLAUDE.md/LLM.md docs, lazy-loaded skills, ADR auto-capture via Log4brains.
 - 🦀 Picking up **Rust** and **Gleam** on the side.
 
