@@ -8,9 +8,9 @@ Currently learning **Rust** and **Gleam**.
 
 ### 🚧 Now / Currently building
 
-- 🌀 **[Werkflow](https://github.com/themaverik/werkflow)** — open-source enterprise workflow automation built on **Flowable BPM + Spring Boot + Next.js**.
-- 🧪 **[claude-code-project-workflow](https://github.com/themaverik/claude-code-project-workflow)** — an opinionated Claude Code workflow: layered CLAUDE.md/LLM.md docs, lazy-loaded skills, ADR auto-capture via Log4brains.
-- 🦀 Picking up **Rust** and **Gleam** on the side.
+- **[Werkflow](https://github.com/themaverik/werkflow)** — open-source enterprise workflow automation built on **Flowable BPM + Spring Boot + Next.js**.
+- **[guided](https://github.com/themaverik/guided)** - a quick GUIDe + EDitor for A4 print ready image driven product guides. 
+- **[claude-code-project-workflow](https://github.com/themaverik/claude-code-project-workflow)** — an opinionated Claude Code workflow: layered CLAUDE.md/LLM.md docs, lazy-loaded skills, ADR auto-capture via Log4brains.
 
 ### 🖥️ Tech Stack
 
