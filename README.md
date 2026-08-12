@@ -56,4 +56,4 @@ screenshot guides are stale before they are published.
 
 
 ### GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=themaverik&theme=one_dark_pro&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=themaverik&theme=one_dark_pro&hide_border=false)
