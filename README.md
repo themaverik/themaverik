@@ -54,5 +54,7 @@ screenshot guides are stale before they are published.
 **Data & Infra**
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![XMPP](https://img.shields.io/badge/XMPP-002B5C?style=flat&logo=xmpp&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat&logo=keycloak&logoColor=white)
 
+
+### GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=themaverik&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=themaverik&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
